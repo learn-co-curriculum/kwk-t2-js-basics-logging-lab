@@ -32,3 +32,4 @@ Why are we using spies all of a sudden? Open up the `test/indexTest.js` file and
 
 <p class='util--hide'>View <a href='https://learn.co/lessons/js-basics-logging-lab'>Logging Lab</a> on Learn.co and start learning to code for free.</p>
 <p data-visibility='hidden'>KWK-T2 JavaScript Logging Lab</p>
+
